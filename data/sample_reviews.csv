@@ -1,0 +1,47 @@
+text,sentiment
+"The delivery was fast and the product works perfectly",Positive
+"Excellent quality and very easy to use",Positive
+"I love this purchase and would recommend it",Positive
+"Helpful support solved my problem quickly",Positive
+"The screen is bright and the battery lasts all day",Positive
+"Great value for the price and arrived on time",Positive
+"Comfortable design with a premium feel",Positive
+"Setup was simple and everything worked right away",Positive
+"Pleasantly surprised by the quality",Positive
+"This is one of the best purchases I have made",Positive
+"The food was delicious and the staff were kind",Positive
+"Clear sound and reliable connection",Positive
+"Works better than I expected",Positive
+"The return process was smooth and the refund was quick",Positive
+"Fantastic service from start to finish",Positive
+"Not bad at all, I am happy with it",Positive
+"The package arrived damaged and the item was broken",Negative
+"Very poor quality and stopped working after one day",Negative
+"Customer support never replied to my messages",Negative
+"The battery drains quickly and the phone gets hot",Negative
+"I regret buying this and would not recommend it",Negative
+"Slow delivery and the box was missing parts",Negative
+"The app crashes every time I try to open it",Negative
+"Uncomfortable fit and disappointing materials",Negative
+"The food was cold and the order was incorrect",Negative
+"Waste of money, completely useless",Negative
+"The return was refused despite the product being faulty",Negative
+"Not worth the price and much worse than advertised",Negative
+"Never buying again after such terrible service",Negative
+"It stopped working and nobody offered a solution",Negative
+"The product is okay, nothing special",Neutral
+"Delivery took three days as stated",Neutral
+"The package contained the item and a charging cable",Neutral
+"It has a plastic case and a 6 inch display",Neutral
+"I have used it for two weeks",Neutral
+"The color is different from the picture but acceptable",Neutral
+"The instructions were included in the box",Neutral
+"Performance is average for this price range",Neutral
+"The shop is located near the station",Neutral
+"It arrived today and I have not tried it yet",Neutral
+"The product has several settings and a digital screen",Neutral
+"I ordered the medium size in blue",Neutral
+"The call lasted around ten minutes",Neutral
+"There are three pieces in the set",Neutral
+"The service was neither especially good nor especially bad",Neutral
+"It does the basic job, though the interface is dated",Neutral

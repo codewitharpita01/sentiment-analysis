@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Streamlit and tools
+.streamlit/secrets.toml
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.log
+
+# Local model artifacts (regenerate with train_model.py)
+models/*.joblib
+models/*.pkl
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
